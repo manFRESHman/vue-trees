@@ -1,11 +1,13 @@
 <details>
 <summary>Full list with info</summary>
-##  +Tree 1 (CHINA) (60/week) (latest 7 months ago)
-  not specified
-  https://github.com/ssthouse/vue-tree-chart
-##  Tree 2 (CHINA) (256/week) (latest 6 months ago)
-  MIT License
-  https://github.com/tower1229/Vue-Tree-Chart
+
+## +Tree 1 (CHINA) (60/week) (latest 7 months ago)
+not specified
+https://github.com/ssthouse/vue-tree-chart
+
+## Tree 2 (CHINA) (256/week) (latest 6 months ago)
+MIT License
+https://github.com/tower1229/Vue-Tree-Chart
   
 ## +Tree 3 (1277/week) (latest 2 months ago)
 Shareware
