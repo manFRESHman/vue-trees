@@ -67,14 +67,14 @@ Collections of chart libraries for Vue: https://madewithvuejs.com/charts
 <details>
 <summary>Best libraries with info</summary>
 
-## Tree 1 (CHINA) (60/week) (latest 7 months ago)
+## Free (CHINA) (60/week) (latest 7 months ago)
 License not specified
 
 Cons: China, no zoom
 
 https://github.com/ssthouse/vue-tree-chart
 
-## Tree 3 (1277/week) (latest 2 months ago)
+## Free (1277/week) (latest 2 months ago)
 Shareware
 
 Cons: No zoom, no move
@@ -83,42 +83,41 @@ https://github.com/zingchart/ZingChart
 
 (docs: https://www.zingchart.com/docs/chart-types/tree-module?q=tree%20chart)
 
-## Tree 9 (360/week) (latest 1 year ago)
+## Free (360/week) (latest 1 year ago)
 MIT License
 
 Cons: No zoom, no move
 
 https://github.com/David-Desmaisons/Vue.D3.tree
 
-## Bonus
-
-### Native D3
+## Native D3
 BSD-3-Clause License
 
 https://github.com/gywgithub/vue-d3-examples/blob/master/src/components/TreeIV.vue
 
-### Not Free
+## Not Free
 
 https://jscharting.com/examples/chart-types/organizational/
 
-### 
+## FREE (16/week) (6 months ago)
 
 https://github.com/remcoplasmeyer/flowy-vue
 
-### Tree 11
+## FREE (970/week) (2 years ago)
 
 https://github.com/dabeng/vue-orgchart
 (docs: https://dabeng.github.io/OrgChart/)
 
-### Not free (Tree 12)
+## Not free
 
 https://github.com/BALKANGraph/OrgChartJS
 
-### Tree 13
+## FREE (10000/week) (7 months)
 
 https://github.com/devstark-com/vue-google-charts
 
-### 
+## FREE (213/week) (month ago)
 
 https://github.com/bumbeishvili/d3-organization-chart
+
 </details>
